@@ -27,7 +27,9 @@ Seems like I stumbled upon a secret... 🤔
 
  ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsone&layout=compact">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsone&layout=compact">
+ </p>
 
 <!--
 **dsone/dsone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
