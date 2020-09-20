@@ -46,7 +46,7 @@ Seems like I stumbled upon a secret... 🤔
  
 **Project Management**
   
-<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code> <code> <a href="https://clubhouse.io" target="_blank">Clubhouse</a> </code> 
+<code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code> <code><img height="42" src="https://avatars1.githubusercontent.com/u/1672820?s=200&v=4" alt="Clubhouse"></code> 
 </td></tr>
 </tbody>
 </table>
