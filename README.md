@@ -3,7 +3,7 @@
 Seems like I stumbled upon a secret... 🤔
 
  ---
-<table>
+<table align="center">
 <tbody>
 <tr><td>
 
