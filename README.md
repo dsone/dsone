@@ -2,7 +2,8 @@
 
 Seems like I stumbled upon a secret... 🤔
 
- ---
+---
+
 <table align="center">
 <tbody>
 <tr><td>
@@ -35,7 +36,7 @@ Seems like I stumbled upon a secret... 🤔
 
 **Intrigued by**  
   
-[<img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png" alt="Perl">](https://github.com/topics/perl) [<img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#">](https://github.com/topics/csharp) [<img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="Unity">](https://unity.com/) [<img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" alt="Electron">](https://www.electronjs.org/) 
+[<img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" alt="Electron">](https://www.electronjs.org/) [<img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/perl/perl.png" alt="Perl">](https://github.com/topics/perl) [<img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#">](https://github.com/topics/csharp) [<img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="Unity">](https://unity.com/)
 </td><td>&nbsp;</td><td>
 
 **Project Management**  
@@ -48,5 +49,6 @@ Seems like I stumbled upon a secret... 🤔
 ---
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsone&layout=compact">
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=dsone&hide=stars&count_private=true&show_icons=true&title_color=a5c05b&text_color=000000&bg_color=6eb5c026&border_color=006c84"></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsone&layout=compact&title_color=a5c05b&text_color=000000&bg_color=6eb5c026&border_color=006c84&langs_count=6&custom_title=dsone%27s%20Language%20Stats"></a>
 </p>
