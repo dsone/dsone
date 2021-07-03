@@ -49,6 +49,7 @@ Seems like I stumbled upon a secret... 🤔
 ---
 
 <p align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=dsone&hide=stars&count_private=true&show_icons=true&title_color=a5c05b&text_color=000000&bg_color=6eb5c026&border_color=006c84"></a>
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsone&layout=compact&title_color=a5c05b&text_color=000000&bg_color=6eb5c026&border_color=006c84&langs_count=6&custom_title=dsone%27s%20Language%20Stats"></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=dsone&hide=stars&count_private=true&show_icons=true&title_color=a5c05b&text_color=000000&bg_color=6eb5c026&border_color=006c84"></a>
+</p><p align="center">
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsone&layout=compact&title_color=a5c05b&text_color=000000&bg_color=6eb5c026&border_color=006c84&langs_count=6&custom_title=dsone%27s%20Language%20Stats"></a>
 </p>
