@@ -26,7 +26,6 @@ Seems like I stumbled upon a secret... 🤔
 **"App Stack"**  
   
 [<img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows 10">](https://www.microsoft.com/windows) [<img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png" alt="Chrome">](https://www.google.com/chrome) [<img height="42" src="https://github.com/vscode-icons/vscode-icons/blob/master/images/logo.png" alt="VSCode">](https://code.visualstudio.com/) [<img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker/ddev">](https://github.com/drud/ddev)</td><td>&nbsp;</td><td>
-
 **Build**  
   
 [<img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" alt="GulpJS">](https://gulpjs.com/) [<img height="42" src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png" alt="Babel">](https://babeljs.io/)
