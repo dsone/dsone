@@ -2,14 +2,14 @@
 🔭 <b>Fullstack</b>. Senior problem solver. Trainee-Influencer. Tech enthusiast.<br />
 Expertise in <b>PHP+MySQL</b> and everything <b>JavaScript</b> related.<br />
 Native, including ES2015+, legacy <b>AngularJS</b>, modern <b>SolidJS</b>, <b>React</b>, <b>VueJS</b> or others.<br><br>
-For development I usually use Docker/ddev, VSCode, vite/gulp/webpack+babel.<br /><br />
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&quote=Maintaining%20coding%20standards%20means%20you%20can%20be%20comfortable%20in%20other%20people's%20code." align="right" />
+For development I usually use Docker/ddev, VSCode, vite/gulp/webpack+babel.<br />
 
 🤿 Currently deep diving into the amazing SolidJS.<br />
 ❤️ Dog person.<br />
 ⚡ Favouring coding standards over tech debt.<br />
 🎭 Performer of Intent-Driven Development.
 <br /><br />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&quote=Maintaining%20coding%20standards%20means%20you%20can%20be%20comfortable%20in%20other%20people's%20code." />
 
 ## 💻 Tech Stack
 ### Frontend
