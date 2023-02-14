@@ -1,5 +1,5 @@
 ## About Me
-🔭 <b>Fullstack</b>. Senior problem solver. Trainee-Influencer. Tech enthusiast.<br />
+🔭 <b>FullStack</b>. Senior problem solver. Trainee-Influencer. Tech enthusiast.<br />
 Expertise in <b>PHP+MySQL</b> and everything <b>JavaScript</b> related.<br />
 Native, including ES2015+, legacy <b>AngularJS</b>, modern <b>SolidJS</b>, <b>React</b>, <b>VueJS</b> or others.<br><br>
 For development I usually use Docker/ddev, VSCode, vite/gulp/webpack+babel.<br />
